@@ -1,6 +1,6 @@
 # Siliconmeasure Package
 
-![siliconmeasure]https://github.com/sabari-saravanan-m/siliconmeasure
+![siliconmeasure](https://github.com/sabari-saravanan-m/siliconmeasure)
 
 Siliconmeasure makes easy to set up and run. The package contains a repository of instrument classes and a system for running experiment procedures.
 It is currently under active development, so please report any issues you experience to this Issues page.
