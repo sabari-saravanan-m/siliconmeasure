@@ -21,7 +21,6 @@ $ pip install C:\..\Downloads\siliconmeasure
 from siliconmeasure.Agilent import agilentE3631A
 from siliconmeasure.Keysight import keysight34461A
 from siliconmeasure.Tektronix import tektronixMSO4000B
-from siliconmeasure.NI8452 import i2c, spi, spistream, dio
 from siliconmeasure.Chroma import chroma6314A
 from siliconmeasure.Keithley import keithley2200, keithleyN6700
 
